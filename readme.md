@@ -45,7 +45,7 @@
 ---
 
 ## Step 3: Clone Your Repository  
-หลังจากเข้า Repository แล้ว ให้คลิก **Code** > **Open with GitHub Desktop**  
+หลังจากเข้า Repository แล้ว ให้คลิก **Git Desktop จะเปิดขึ้น** > **Click ที่ Clone** > **แล้วก็ Open in Visual Studio Code**
 
 ---
 
