@@ -8,30 +8,38 @@
 
 เปิด GitHub Desktop และทำการ **Login**  
 
-หลังจากเปิด GitHub Desktop คุณจะเห็นหน้าจอต้อนรับ:  
+หลังจากเปิด GitHub Desktop จะเห็นหน้าจอต้อนรับ:  
+ 
 ![GitHub Desktop Login](images/image-3.png)
 
 คลิก **Sign in to GitHub.com**  
+ 
 ![GitHub Desktop Sign In](images/image-5.png)
 
-เข้าสู่ระบบด้วยบัญชี GitHub ของคุณ  
+เข้าสู่ระบบด้วยบัญชี GitHub ของคุณ 
+  
 ![GitHub Desktop Sign In Page](images/image-6.png)
 
 เมื่อเข้าสู่ระบบสำเร็จ คุณจะเห็นหน้าจอหลักของ GitHub Desktop  
+ 
 ![GitHub Desktop Main Screen](images/image-7.png)
 
 ---
 
 ## Step 2: Access Your Repository on GitHub
+ 
 เข้าเว็บไซต์ [GitHub](https://github.com/) และทำการ **Login** จากนั้นเข้าไปที่ Repository ที่คุณสร้างไว้  
 
 ไปที่หน้า Dashboard และเลือก Repository ของคุณ  
+ 
 ![GitHub Repository](images/image.png)
 
 คลิกที่ Repository ที่ต้องการใช้งาน  
+ 
 ![GitHub Repository Navigation](images/image-1.png)
 
 เมื่อเข้า Repository แล้ว จะเห็นหน้าหลักดังภาพ  
+ 
 ![Repository Details](images/image-2.png)
 
 ---
