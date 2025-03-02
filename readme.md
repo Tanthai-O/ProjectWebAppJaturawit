@@ -4,3 +4,7 @@
  
  เข้า Github ทำการ Login และเข้า Repository ที่เราสร้างไว้
 ![alt text](image.png)
+ 
+![alt text](image-1.png)
+ 
+![alt text](image-2.png)
